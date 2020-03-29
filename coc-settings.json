@@ -1,0 +1,17 @@
+{
+  "suggest.triggerAfterInsertEnter": true,
+  "suggest.autoTrigger": "trigger",
+  "suggest.enablePreselect":true,
+  "suggest.noselect": false,
+  "prettier.eslintIntegration": true,
+  "eslint.enable": false,
+  "eslint.run": "onType",
+  "eslint.autoFixOnSave": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+  ],
+  "emmet.includeLanguages": { 
+     "javascript": "javascriptreact",
+     "vue-html": "html"
+  },
+  "emmet.showExpandedAbbreviation": "always"
+}
